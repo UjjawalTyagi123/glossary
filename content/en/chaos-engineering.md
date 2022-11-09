@@ -2,7 +2,7 @@
 title: Chaos Engineering
 status: Completed
 category: concept
-tags: ["security", "", ""]
+tags: ["methodology", "security", ""]
 ---
 
 ## What it is
