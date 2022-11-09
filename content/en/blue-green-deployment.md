@@ -2,7 +2,7 @@
 title: Blue Green Deployment
 status: Completed
 category: concept
-tags: ["methodology", "", ""]
+tags: ["methodology", "application", ""]
 ---
 
 ## What it is
