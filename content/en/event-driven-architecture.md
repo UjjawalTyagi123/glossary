@@ -2,6 +2,7 @@
 title: Event-Driven Architecture
 status: Completed
 category: concept
+tags: ["architecture", "networking", ""]
 ---
 
 ## What it is
