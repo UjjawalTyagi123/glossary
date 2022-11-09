@@ -2,7 +2,7 @@
 title: Portability
 status: Completed
 category: Property
-tags: ["fundamental", "", ""]
+tags: ["fundamental", "property", ""]
 ---
 
 A software characteristic, portability is a form of reusability that helps to avoid "lock-in" to certain operating environments, 
