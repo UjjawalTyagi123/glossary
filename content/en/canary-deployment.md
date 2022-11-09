@@ -2,7 +2,7 @@
 title: Canary Deployment
 status: Completed
 category: concept
-tags: ["methodology", "", ""]
+tags: ["methodology", "application", ""]
 ---
 
 ## What it is
