@@ -2,7 +2,7 @@
 title: Nodes
 status: Completed
 category: Concept
-tags: ["architecture", "", ""]
+tags: ["architecture", "fundamental", ""]
 ---
 
 ## What it is
